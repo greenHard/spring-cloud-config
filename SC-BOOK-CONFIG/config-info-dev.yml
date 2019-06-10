@@ -1,4 +1,4 @@
 cn:
   springcloud:
     book:
-      config: dev environment
+      config: dev environment aaa
